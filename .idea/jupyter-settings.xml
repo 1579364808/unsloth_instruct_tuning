@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/unsloth_instruct_tuning.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="argv" value="notebook --no-browser --allow-root" />
+              <option name="managed" value="true" />
+              <option name="sdkName" value="instruct_tuning" />
+              <option name="environmentVariables">
+                <map>
+                  <entry name="DeepSeek_API_KEY" value="sk-a4c3175702a04b07b781ab8a5bf7a76b" />
+                  <entry name="HF_TOKEN" value="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" />
+                </map>
+              </option>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
